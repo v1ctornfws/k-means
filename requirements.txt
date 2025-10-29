@@ -1,0 +1,7 @@
+# requirements.txt
+# Lista de librerías esenciales para el proyecto K-means
+streamlit
+pandas
+scikit-learn
+matplotlib
+numpy
